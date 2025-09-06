@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "My Journey into Front-End Development",
+    "description": "A personal story of learning to code, overcoming obstacles, and finding my passion in front-end development.",
+    "content": "I started my journey into front-end development with little knowledge of HTML and CSS. The learning curve was steep, but I was determined to build beautiful and functional websites. I spent countless hours on online tutorials, building small projects, and learning from my mistakes. Over time, I became comfortable with JavaScript and frameworks like React. The most rewarding part has been seeing my ideas come to life and helping others through my work. My journey is ongoing, and I continue to learn and grow every day.",
+    "image": "/public/Image/pexels-bobbydimas-30518545.jpg",
+    "category": "Featured",
+    "date": "2025-04-01",
+    "tags": ["Front-End", "Development", "Journey"]
+  },
+  {
+    "id": 2,
+    "title": "10 Tips for Writing Clean Code",
+    "description": "Learn how to write clean and maintainable code with these 10 tips.",
+    "content": "Writing clean code is essential for maintainability and collaboration. Here are my top 10 tips: 1) Use meaningful variable names. 2) Keep functions small and focused. 3) Write comments where necessary. 4) Avoid deep nesting. 5) Stick to a consistent coding style. 6) Refactor regularly. 7) Write tests. 8) Use version control. 9) Review code with peers. 10) Never stop learning. Clean code not only helps you but also your team and future maintainers.",
+    "image": "/public/Image/pexels-clean-code.jpg",
+    "category": "Tips",
+    "date": "2025-03-15",
+    "tags": ["Clean Code", "Best Practices", "Tips"]
+  },
+  {
+    "id": 3,
+    "title": "The Importance of SEO for Web Developers",
+    "description": "Why SEO matters and how web developers can optimize their projects for search engines.",
+    "content": "SEO is crucial for making your website discoverable. As a web developer, you should understand the basics: use semantic HTML, optimize images, ensure fast load times, and make your site mobile-friendly. Implementing meta tags, sitemaps, and accessible navigation also helps. Good SEO practices not only improve your site's ranking but also enhance user experience. Stay updated with SEO trends and always test your site’s performance.",
+    "image": "/public/Image/pexels-seo.jpg",
+    "category": "Thoughts",
+    "date": "2025-02-20",
+    "tags": ["SEO", "Web Development", "Optimization"]
+  }
+]
